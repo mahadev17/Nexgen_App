@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Alert">Alert</string>
+    <string name="enter_email_address">Please enter your username.</string>
+    <string name="enter_password">Please enter your password.</string>
+    <string name="email_validation">Please Enter Correct Email Address</string>
+    <string name="some_data">Enter Some Data</string>
+    <string name="wrong_email_password">Invalid Email Or Password</string>
+    <string name="network_connection">Please Check Network Connection.</string>
+</resources>

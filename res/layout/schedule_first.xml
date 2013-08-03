@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg2"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:paddingTop="130dp" >
+
+        <LinearLayout
+            android:id="@+id/first_week_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingLeft="40dip"
+            android:paddingRight="40dip" 
+            android:visibility="visible">
+            
+            <LinearLayout
+                android:id="@+id/reward_layout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:visibility="gone"
+                android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/reward_txt1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="3dip"
+                android:text="My Reward :-"
+                android:textColor="@color/white"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/reward_txt2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="3dip"
+                android:text="Value"
+                android:layout_marginLeft="10dp"
+                android:textColor="@color/white"
+                android:textSize="15dp"
+                />
+ 		</LinearLayout>           
+
+            <Button
+                android:id="@+id/btn_week1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="3dip"
+                android:background="@drawable/list_view"
+                android:text="PROGRAM 1" />
+
+            <Button
+                android:id="@+id/btn_week2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="3dip"
+                android:background="@drawable/list_view"
+                android:text="PROGRAM 2" />
+
+            <Button
+                android:id="@+id/btn_week3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="3dip"
+                android:background="@drawable/list_view"
+                android:text="PROGRAM 3" />
+
+            <Button
+                android:id="@+id/btn_week4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="3dip"
+                android:background="@drawable/list_view"
+                android:text="PROGRAM 4" />
+        </LinearLayout>
+
+        
+        <LinearLayout
+             android:id="@+id/second_week_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingLeft="40dip"
+        android:paddingRight="40dip"
+        android:visibility="gone">
+
+        <Button
+            android:id="@+id/btn_week5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="3dip"
+            android:background="@drawable/list_view"
+            android:text="PROGRAM 5" />
+
+        <Button
+            android:id="@+id/btn_week6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="3dip"
+            android:background="@drawable/list_view"
+            android:text="PROGRAM 6" />
+
+        <Button
+            android:id="@+id/btn_week7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="3dip"
+            android:background="@drawable/list_view"
+            android:text="PROGRAM 7" />
+
+        <Button
+            android:id="@+id/btn_week8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="3dip"
+            android:background="@drawable/list_view"
+            android:text="PROGRAM 8" />
+    </LinearLayout>
+        
+        
+        
+        
+        
+        
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="bottom|right"
+            android:id="@+id/layout_fwd"
+            android:orientation="vertical" >
+
+            <Button
+                android:id="@+id/btn_fwd"
+                 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="45dp"
+                android:layout_marginTop="35dp"
+                android:background="@drawable/arrow_right"
+                android:text="" />
+        </LinearLayout>
+        
+        
+        <LinearLayout
+            android:id="@+id/layout_back"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="bottom|left"
+        android:visibility="gone"
+        android:orientation="vertical" >
+
+        <Button
+            android:id="@+id/btn_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="45dp"
+            android:layout_marginTop="35dp"
+            android:background="@drawable/arrow_left"
+            android:text="" />
+    </LinearLayout>
+        
+        
+        
+        
+        
+    </LinearLayout>
+
+</LinearLayout>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- <?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg2"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:paddingTop="130dp" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingLeft="40dip"
+            android:paddingRight="40dip" >
+            
+            <LinearLayout
+                android:id="@+id/reward_layout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:visibility="gone"
+                android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/reward_txt1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="3dip"
+                android:text="My Reward :-"
+                android:textColor="@color/white"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/reward_txt2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="3dip"
+                android:text="Value"
+                android:layout_marginLeft="10dp"
+                android:textColor="@color/white"
+                android:textSize="15dp"
+                />
+ 		</LinearLayout>           
+
+            <Button
+                android:id="@+id/btn_week1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="3dip"
+                android:background="@drawable/list_view"
+                android:text="PROGRAM 1" />
+
+            <Button
+                android:id="@+id/btn_week2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="3dip"
+                android:background="@drawable/list_view"
+                android:text="PROGRAM 2" />
+
+            <Button
+                android:id="@+id/btn_week3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="3dip"
+                android:background="@drawable/list_view"
+                android:text="PROGRAM 3" />
+
+            <Button
+                android:id="@+id/btn_week4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="3dip"
+                android:background="@drawable/list_view"
+                android:text="PROGRAM 4" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="bottom|right"
+            android:orientation="vertical" >
+
+            <Button
+                android:id="@+id/btn_fwd"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="45dp"
+                android:layout_marginTop="35dp"
+                android:background="@drawable/arrow_right"
+                android:text="" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout> -->

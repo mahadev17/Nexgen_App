@@ -1,0 +1,204 @@
+<resources>
+
+    <string name="app_name">Nexgen Mobile FilmFest </string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Nexgen Mobile FilmFest </string>
+    <string name="contact">INFORMATION</string>
+    <string name="distributor">DISTRIBUTOR:</string>
+    <string name="number">NUMBER:</string>
+    <string name="address">ADDRESS:</string>
+    <string name="telephone">TELEPHONE</string>
+    <string name="email">EMAIL</string>
+    <string name="film_information">FILM INFORMATION</string>
+    <string name="title">TITLE</string>
+    <string name="original">ORIGINAL TITLE</string>
+    <string name="genre">GENRE OF FILM</string>
+    <string name="running">RUNNING TIME</string>
+    <string name="director">"Director      "</string>
+    <string name="producer">PRODUCER</string>
+    <string name="screen_writer">SCREEN WRITER(s)</string>
+    <string name="star_cast_male">STAR CAST(Male)</string>
+    <string name="star_cast_female">STAR CAST(Female)</string>
+    <string name="counries">S.COUNTRY(ies) OF PRODUCTION</string>
+    <string name="languages">LANGUAGES</string>
+    <string name="blank">"                          "</string>
+    <string name="next">NEXT</string>
+    <string name="terms">TERMS AND CONDITION :</string>
+    <string name="about1">NEXGEN MOBILE FILM FESTIVAL is the 1st marketed festival to start of by catering specifically to the short films who have been rejected by other film festivals and also Where Audience Around the world can get to view and participate in on the voting process of Numerous of Short Films from talented Filmmakers Globally Right from the comfort of their Mobile Phones and other hardware designed to equip the NEXGEN MOBILE FILM FESTIVAL APP. </string>
+    <string name="about2">We will Promote, Screen, and shine light on these Short films in order to both inspire and encourage rejected filmmakers to continue making Films and not to be discouraged by the thousands of rejection letters they have received in the past. </string>
+    <string name="about3">OUR FESTIVAL plans to compensate the winning filmmaker who screens with us, Portions of the money from the proceed of entry will be entered towards the film jackpot and will be awarded to the winner in order to help them make back what they may have lost in previous entry fees. </string>
+    <string name="about4">NEXGEN MOBILE FILM FESTIVAL will judge films accordingly through a point based system based on Storytelling, Acting, Editing And Cinematography.</string>
+    <string name="about5">NEXGEN MOBILE FILM FESTIVAL will run from a span of 6 months for the submission process and 1 month for the screening and voting process from the audience.</string>
+    <string name="about6">TERMS AND CONDITION :</string>
+    <string name="terms1">NEXGEN MOBILE FILM FESTIVAL is the 1st marketed festival to start of by catering specifically to the short films who have been rejected by other film festivals and also Where Audience Around the world can get to view and participate in on the voting process of Numerous of Short Films from talented Filmmakers Globally Right from the comfort of their Mobile Phones and other hardware designed to equip the NEXGEN MOBILE FILM FESTIVAL APP.We will Promote, Screen, and shine light on these Short films in order to both inspire and encourage rejected filmmakers to continue making Films and not to be discouraged by the thousands of rejection letters they have received in the past.OUR FESTIVAL plans to compensate the winning filmmaker who screens with us, Portions of the money from the proceed of entry will be entered towards the film jackpot and will be awarded to the winner in order to help them make back what they may have lost in previous entry fees.NEXGEN MOBILE FILM FESTIVAL will judge films accordingly through a point based system based on Storytelling, Acting, Editing And Cinematography.NEXGEN MOBILE FILM FESTIVAL will run from a span of 6 months for the submission process and 1 month for the screening and voting process from the audience.</string>
+    <string name="terms_and_condition">By entering your film for consideration for the 2013 Nexgen Mobile Film Festival, you authorize that your work is cleared for festival exhibition and accept full legal responsibility for the intellectual property therein.\nEntry into the festival constitutes permission to exhibit your work at the 2013 Nexgen Mobile Film Festival. The Nexgen Mobile Film Festival is also hereby granted the right to utilize an excerpt from any film submitted and accepted for exhibition at the Festival for promotional purposes.\nThe undersigned shall indemnify and hold harmless the Nexgen Mobile Film Festival from and against any and all claims, liabilities, losses, damages, and expenses (including but not limited to attorney’s fees, and costs of the court) which may be incurred by reason of any claim involving copyright, trademark, credits, publicity, screening, and loss of or damage to the screening videos entered.</string>
+    <string name="credit">CREDIT CARD</string>
+    <string name="last_name">LAST NAME</string>
+    <string name="first_name">FIRST NAME</string>
+    <string name="credit_number">CREDIT CARD NUMBER</string>
+    <string name="expire">EXPIRATION MONTH</string>
+    <string name="year">YEAR</string>
+    <string name="code">CODE</string>
+    <string name="continu">COUNTINUE</string>
+    <string name="password">PASSWORD  </string>
+    <string name="viewer_name">VIEWER NAME</string>
+    <string name="viewer_email">EMAIL ID</string>
+    <string name="confirm_pass">CONFIRM PASSWORD</string>
+    <string name="submit">SUBMIT</string>
+    <string name="q1">What genres do you accept?</string>
+    <string name="q2">When must submitted films arrive?</string>
+    <string name="q3">How do I know you received my film?</string>
+    <string name="q4">How many copies of the screeners should I send?</string>
+    <string name="q5">Can I submit a Blu-ray?</string>
+    <string name="q6">Can we send updated versions of the film?</string>
+    <string name="q7">How long can films be?</string>
+    <string name="q8">Do you have any ratings limitations? Must films be PG or PG-13? Do you program films with strong content and language?</string>
+    <string name="q9">Do you have competition sections?</string>
+    <string name="q10">Do you screen films out of competition?</string>
+    <string name="q11">How many films are put in competition?</string>
+    <string name="q12">What are the awards giving for the winners?</string>
+    <string name="q13">How do you program your shorts?</string>
+    <string name="q14">Do you program international films?</string>
+    <string name="q15">Do you prefer films with stars?</string>
+    <string name="q16">I submitted last year and wasn’t accepted. Can I resubmit?</string>
+    <string name="q17">I worked on or acted in a film, but didn’t produce or direct it, can I submit? I was the director, but not the producer, or vice versa, can I submit on my own?</string>
+    <string name="q18">Who are your screeners?</string>
+    <string name="q19">Can someone who submitted a film or worked on a submitted film also be a screener?</string>
+    <string name="q20">Are films selected based on scores?</string>
+    <string name="q21">Can I see my scores?</string>
+    <string name="q22">Can I find out how my film is doing once I’ve submitted?</string>
+    <string name="q23">Who makes final selections?</string>
+
+    <!-- new q&A -->
+    <string name="qn2">What format must i send my Screener in ?</string>
+    <string name="ansn2">H.264 video, up to 5 Mbps, 720 by 480 pixels, 24,30 frames per second, Baseline Profile up to Level 4.0 with AAC-LC stereo audio up to 192 Kbps, 48kHz, in mov, .mp4 and .m4v file formats and file size must be 15mins in length and 500mb or less.</string>
+    <string name="ans17a">For directors and producers, we strongly advise that everyone is in a agreement about the festivals they are submitting to, which festivals they want to play first or want to premiere at, and which version of the film is being submitted.</string>
+    <string name="ans17b">When disputes arise, i.e. a film has been submitted without everyone’s explicit approval or the festival strategy has changed, we suggest that productions find a solution and come to an agreement with all the key decision makers before contacting us or any festivals the film has been submitted to. Please do not send an email asking us to pull the film until a decision has been made. Sending us an email letting us know an issue has arisen is fine. Hint: Bashing your director or producer for going behind your back will not win you points</string>
+    <string name="ans1">Drama, Comedy, Action, thriller/horror .</string>
+    <string name="ans2">The deadline dates are not postmark deadlines, they are the dates by which your film must be received in our office. We understand there are delays that cannot be foreseen. If your film will not arrive by the deadline due to a last minute issue, you can contact us so we can evaluate options.</string>
+    <string name="ans3">you will get a email stating it has been received</string>
+    <string name="ans4">(one digital copy through dropbox through our website )</string>
+    <string name="ans5">No. However, you must submit an online version through dropbox through the website.</string>
+    <string name="ans6">Yes. However, we ask that new versions arrive no later than the Late Deadline. With the new submissions coming in, it is unlikely we will be able to properly evaluate a new cut and give the new films coming in all the consideration they deserve.</string>
+    <string name="ans7">We consider a short anything 21 minutes or under. 
+including credits anything over will be considered </string>
+    <string name="ans8">We have no ratings limitations on films submitted. We program films with a variety content, from family friendly to work that would be more appropriate for mature audiences and would likely be rated R or higher NC17 will not accepted. Our mission is to program them together and if it should have a rating higher then PG-13 we will let viewers know before hand</string>
+    <string name="ans9">No, The festival main purpose is to engage audience around the globe to participate in on the voting process and select films that are appealing to them.</string>
+    <string name="ans10">No not at this moment. In the near future we will notify all filmmakers when we will.</string>
+    <string name="ans11">100 will be announced initially from a pool of submission we will receive. We then will narrow it down to the top 50, From the top 50 We then will nominate the top 25.  We will announce the winner for best film overall according to the audience participation based on how you promote and share you film during the festival run. Our Festival also encourage filmmakers to share their film as much as they can so the more votes can determine a higher percentage for their film to be nominated for best film overall. We will also have awards available for the remaining participating films from the top 25 of films.</string>
+    <string name="ans12">The winner for best film overall will win the grand prize from the films money jackpot along with the Audience choice award for best film. The remaining 24 films with the highest scores will determine the appropriate awards for the film for best story, best acting, and best cinematography along with best actor and best actress.We will also have best animation short award.</string>
+    <string name="ans13">We program thematically. Excluding a few shorts programs every year, we do not choose the themes ahead of time. We look to see what themes we can build from the submissions received.</string>
+    <string name="ans14">No, at this time we only cater to american films</string>
+    <string name="ans15">No. We prefer great and interesting stories.</string>
+    <string name="ans16">This one is hard to answer, but yes. However, we recommend doing so only if the version being submitted is a radically different cut or if the previous submission was a work in progress with lots to be done. We also program thematically so a short that may have not fit the blocks of one year, may be appropriate for the next year. BUT, full disclosure, it’s been rare a resubmitted film has been accepted the next year. If you do resubmit, please note that the film is a resubmission and what changes were made between the different cuts.</string>
+    <string name="ans17">If it’s not your film, it’s advisable to submit only after you’ve received permission from the filmmakers.
+For directors and producers, we strongly advise that everyone is in a agreement about the festivals they are submitting to, which festivals they want to play first or want to premiere at, and which version of the film is being submitted.
+When disputes arise, i.e. a film has been submitted without everyone’s explicit approval or the festival strategy has changed, we suggest that productions find a solution and come to an agreement with all the key decision makers before contacting us or any festivals the film has been submitted to. Please do not send an email asking us to pull the film until a decision has been made. Sending us an email letting us know an issue has arisen is fine. Hint: Bashing your director or producer for going behind your back will not win you points</string>
+    <string name="ans18">We use 10 to 20 screeners from the community to watch films. Some are filmmakers, and some are film buffs who have a passion for film.</string>
+    <string name="ans19">Only if they are not above the line (director, screenwriter, actor, producer, casting director, etc.) and didn’t play a major role in helping produce, or raised funds for the film being submitted. They must also alert NMFF when a film they worked on has or will be submitted and what their role was. If a film is submitted after a screener has joined our committee, they may be asked to step down depending on their level of participation on the project. The conflict of interest and appearance of conflict of interest are too great to allow filmmakers to submit and be screeners.
+
+
+	
+	
+	Each film is watched by at least 2 screeners and films are scored using five criteria: Story, Technical, Originality, Acting/Subjects and Entertainment on a scale of 1 to 10. The scores are averaged per screener.
+	The scores are used to help narrow down the large number of submissions to create a pool of films to make final selections from. The final pool varies year to year, but it’s roughly a third to a quarter of all submitted films that make it to the last round.</string>
+    <string name="ans20">No. When it comes to final selections, films are selected based on the overall filmmaking, variety and what will make the strongest and most interesting lineup. When it comes to selecting films, it’s a film’s content and quality that matter, not it’s score.</string>
+    <string name="ans21">Due to the number of submissions received and technical limitations, it’s not possible for us to share scores at this time. It is something we continue to explore every year and hope to one day make available to all filmmakers.</string>
+    <string name="ans22">We ask that you do not email or call us to find out updates. We’re a year round arts organization, as well as overseeing the 2000 plus submissions we receive for the festival. It’s not that we don’t want to give updates, it’s just nearly impossible to answer those questions in a timely manner.</string>
+    <string name="ans23">The Final 25 selections are made by the Director of Programming.</string>
+
+    <!--
+<string name="ans1">Drama, Comedy, Action, thriller/horror .</string>
+    <string name="ans2">The deadline dates are not postmark deadlines, they are the dates by which your film must be received in our office. We understand there are delays that cannot be foreseen. If your film will not arrive by the deadline due to a last minute issue, you can contact us so we can evaluate options.</string>
+    <string name="ans3">you will get a email stating it has been received</string>
+    <string name="ans4">2. Two (one digital copy and one dvd copy)</string>
+    <string name="ans5">Yes. However, you must still send 2 copies one dvd and submit an online version through dropsend.com</string>
+    <string name="ans6">Yes. However, we ask that new versions arrive no later than the                      Late Deadline. With the new submissions coming in, it is unlikely we will be able to properly evaluate a new cut and give the new films coming in all the consideration they deserve.</string>
+    <string name="ans7">We consider a short anything 21 minutes or under. 
+including credits anything over will be considered </string>
+    <string name="ans8">We have no ratings limitations on films submitted. We program films with a variety content, from family friendly to work that would be more appropriate for mature audiences and would likely be rated R or higher NC17 will not accepted. Our mission is to program them together and if it should have a rating higher then PG-13 we will let viewers know before hand
+        
+    </string>
+    <string name="ans9">No, The festival main purpose is to engage audience around the globe to participate in on the voting process and select films that are appealing to them.</string>
+    <string name="ans10">No not at this moment. In the near future we will notify all filmmakers</string>
+    <string name="ans11">100 will be announced initially from a pool of submission we will receive. We then will narrow it down to the top 50, From the top 50 We then will select the top 25. Only 16 will be chosen and will compete in each section. We will announce the winner for best film overall according to the audience participation based on how you promote and share you film during the festival run. Our Festival also encourage filmmakers to share their film as much as they can so the more votes can determine a higher percentage for their film to be nominated for best film overall. We will also have awards available for the remaining participating films from the top 16 categories.</string>
+    <string name="ans12">The winner for best film overall will win the grand prize from the films money jackpot along with the Audience choice award for best film. The remaining 15 films with the highest scores will determine the appropriate awards for the film for best story, best acting, and best cinematography along with best actor and best actress.  </string>
+    <string name="ans13">We program thematically. Excluding a few shorts programs every year, we do not choose the themes ahead of time. We look to see what themes we can build from the submissions received.</string>
+    <string name="ans14">No, at this time we only cater to american films</string>
+    <string name="ans15">No. We prefer great and interesting stories.</string>
+    <string name="ans16">This one is hard to answer, but yes. However, we recommend doing so only if the version being submitted is a radically different cut or if the previous submission was a work in progress with lots to be done. We also program thematically so a short that may have not fit the blocks of one year, may be appropriate for the next year. BUT, full disclosure, it’s been rare a resubmitted film has been accepted the next year. If you do resubmit, please note that the film is a resubmission and what changes were made between the different cuts.</string>
+    <string name="ans17">If it’s not your film, it’s advisable to submit only after you’ve received permission from the filmmakers.</string>
+    <string name="ans18">We use 10 to 20 screeners from the community to watch films. Some are filmmakers, and some are film buffs who have a passion for film.</string>
+    <string name="ans19">Only if they are not above the line (director, screenwriter, actor, producer, casting director, etc.) and didn’t play a major role in helping produce, or raised funds for the film being submitted. They must also alert NMFF when a film they worked on has or will be submitted and what their role was. If a film is submitted after a screener has joined our committee, they may be asked to step down depending on their level of participation on the project. The conflict of interest and appearance of conflict of interest are too great to allow filmmakers to submit and be screeners.
+
+
+	
+	
+	Each film is watched by at least 2 screeners and films are scored using five criteria: Story, Technical, Originality, Acting/Subjects and Entertainment on a scale of 1 to 10. The scores are averaged per screener.
+	The scores are used to help narrow down the large number of submissions to create a pool of films to make final selections from. The final pool varies year to year, but it’s roughly a third to a quarter of all submitted films that make it to the last round.</string>
+    <string name="ans20">No. When it comes to final selections, films are selected based on the overall filmmaking, variety and what will make the strongest and most interesting lineup. When it comes to selecting films, it’s a film’s content and quality that matter, not it’s score.</string>
+    <string name="ans21">Due to the number of submissions received and technical limitations, it’s not possible for us to share scores at this time. It is something we continue to explore every year and hope to one day make available to all filmmakers.</string>
+    <string name="ans22">We ask that you do not email or call us to find out updates. We’re a year round arts organization, as well as overseeing the 2000 plus submissions we receive for the festival. It’s not that we don’t want to give updates, it’s just nearly impossible to answer those questions in a timely manner.</string>
+    <string name="ans23">The Final 16 selections are made by the Director of Programming.</string>
+    -->
+    <string name="date">DATE</string>
+    <string name="cinemato">CINEMATOGRAPHER</string>
+    <string name="editor">EDITOR</string>
+    <string name="comment">COMMENT</string>
+    <string name="synopsis">SYNOPSIS</string>
+    <string name="meet_film_maker">FILMMAKERS CORNER</string>
+    <string name="screening">Screenings    </string>
+    <string name="description">Description    </string>
+    <string name="producernew">"Producer     "</string>
+    <string name="editornew">"Editor     "</string>
+    <string name="cinematography">"Cinematography      "</string>
+    <string name="sample">"sample sample sample sample sample sample sample sample sample sample sample sample sample sample sample sample "</string>
+    <string name="rate_here">"Choose Film To Vote    "</string>
+    <string name="thanks">"Thanks for votings. "</string>
+    <string name="film_decription">FILM DESCRIPTION</string>
+    <string name="term1">1. Please read all of the terms and conditions below. </string>
+    <string name="term2">2. The deadline dates are not postmark deadlines, they are the dates by which your film must be received in our office. </string>
+    <string name="term3">3. All works must be submitted through digital download through www.Dropbox.com for pre-screening. Please do not send film reels or original material. </string>
+    <string name="term4">4. Screeners will not be returned. </string>
+    <string name="term5">5. Eligible works must have been completed after Oct, 2010. </string>
+    <string name="term6">6. Works in progress WILL be accepted for submission. Please include information as to what still needs to be completed (color correction, score, etc.) with the submitted Film. </string>
+    <string name="term7">7. If you want to replace your original submission with an upgraded version, you must submit a new film clearly labeled with the entry number and Replacement Copy. Any judging that was done with the original submission will not be discarded. Any future judging will be done with the new copy. </string>
+    <string name="term8">8. The Nexgen Mobile Film Festival does not present sponsored works (such as training films or commercials produced for a client). Only independently produced films are appropriate for this competition. Artists must have final creative control over their work to be eligible. </string>
+    <string name="term9">9. The Nexgen Mobile Film Festival does not pay screening fees. </string>
+    <string name="term10">10. All works selected must be completed and available by Sep, 2013 for inclusion in the festival. </string>
+    <string name="term11">11. Notifications: Email notifications of final status will be sent by  Sep , 2013.</string>
+    <string name="rule1">1. Please read all of the terms and conditions below.</string>
+    <string name="rule2">2. The deadline dates are not postmark deadlines, they are the dates by which your film must be received in our office. </string>
+    <string name="rule3">3. All works must be submitted through digital download through www.Dropbox.com for pre-screening. Please do not send film reels or original material. </string>
+    <string name="rule4">4. Screeners will not be returned.</string>
+    <string name="rule5">5. Eligible works must have been completed after Oct, 2010.</string>
+    <string name="rule6">6. Works in progress WILL be accepted for submission. Please include information as to what still needs to be completed (color correction, score, etc.) with the submitted Film.</string>
+    <string name="rule7">7. If you want to replace your original submission with an upgraded version, you must submit a new film clearly labeled with the entry number and “Replacement Copy”. Any judging that was done with the original submission will not be discarded. Any future judging will be done with the new copy.</string>
+    <string name="rule8">8. The Nexgen Mobile Film Festival does not present sponsored works (such as training films or commercials produced for a client). Only independently produced films are appropriate for this competition. Artists must have final creative control over their work to be eligible.</string>
+    <string name="rule9">9. The Nexgen Mobile Film Festival does not pay screening fees.</string>
+    <string name="rule10">10. All works selected must be completed and available by  September, 2013 for inclusionSep Sep in the festival.</string>
+    <string name="rule11">11. Notifications: Email notifications of final status will be sent by September, 2013</string>
+    <string name="description_txt">Claudia: I don\'t understand.He meets a girl that can give him a new life and he pushes her away? Guido : Because he no longer believes in it.Claudia: Because he doesn\'t know how to love.Guido: Because it isn\'t true that a woman can change a man. Claudia: Because he doesn\'t know how to love.Guido: And above all because i don\'t feel like telling another pile of lies.Claudia: Because he doesn\'t know how to love.</string>
+    <string name="camera_crew_txt">Actors: Marcello Mastroianni, Claudia: Cardinale, Anouk Aimee, Sandra Milo, Rossella Falk, Barbara Steele.</string>
+
+    
+    <string name="fullscreen_tutorial">This is a demo which shows how to handle fullscreen behaviour. This activity has differents layouts for portrait, landscape and fullscreen. The user can enter fullscreen either by using the player controller or programmatically by the programmer (here using a button). If your activity does not have a landscape layout, you can choose to automatically enter fullscreen when the device is rotated to landscape orientation.</string>
+    <string name="enter_fullscreen">Enter Fullscreen</string>
+    <string name="landscape_fullscreen">Always fullscreen in landscape</string>
+    <string name="error_player">There was an error initializing the YouTubePlayer (%1$s)</string>
+    
+    <string name="player_style">Player Style</string>
+    <string name="def">Default</string>
+    <string name="minimal">Minimal</string>
+    <string name="chromeless">Chromeless</string>
+    
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="skip_to">Skip To</string>
+    <string name="seconds">secs</string>
+    <string name="info">Film Festival will Start From 4th October.</string>
+    <string name="actor_info">Please click on Actor and Actress to see the list of names selected.</string>
+    <string name="choose">Do You Really Want To Exit?</string>
+    
+</resources>

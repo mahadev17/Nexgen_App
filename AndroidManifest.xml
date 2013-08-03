@@ -1,0 +1,181 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.linkites.nexgenfilmfestival"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="15" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.USE_CREDENTIALS" />
+    <uses-permission android:name="android.permission.MAMAGE_ACCOUNTS" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+
+    <application
+        android:icon="@drawable/launcher_icon"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".SplashActivity"
+            android:label="@string/title_activity_main"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".CommentActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Dialog" >
+        </activity>
+        <activity
+            android:name=".VideoFullScreenActivity"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name=".PayPalActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name=".ViewerForgotPassword"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".RatingVideo"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".NextAboutUs"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".TweetActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".AboutUs"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".TabOptionNewActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name=".FirstWeek"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".GeneralRuleActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".ShareOnFacebook"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Dialog" >
+        </activity>
+        <activity
+            android:name="com.linkites.nexgenfilmfestival.ShowDetailsActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".WelCome"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".TaboptionsActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name=".RegisterFilmMaker"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".FestivalViewer"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".LoginActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".PaymentActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".TermsAndCondition"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".VotingBooth"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".ShowSynopsis"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".MeetFilmMaker"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".FullscreenDemoActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".ViewerSignUp"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".UserCategory"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".NextRegistrationActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".PlayActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".QuestionAnswer"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".ForgotPassword"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".TabOptionNew"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name=".SecondWeek"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name=".HostActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".StripAnimation"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.paypal.android.MEP.PayPalActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+    </application>
+
+</manifest>

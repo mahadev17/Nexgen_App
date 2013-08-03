@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:gravity="center"
+    android:layout_gravity="center"
+   
+   >
+<!-- <com.linkites.nexgenfilmfestival.GIFView
+    android:id="@+id/gifview1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"/> 
+  android:layout_weight ="1.0" -->
+   
+    
+    
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical" 
+        android:paddingLeft="40dip"
+        android:gravity="center"
+        android:id="@+id/layout_btns"
+        android:paddingTop="55dp"
+        android:background="@drawable/new_animated_splash_last"
+            android:paddingRight="40dip"
+            android:visibility="visible"
+      >
+
+        <Button
+            android:id="@+id/btn_filmmaker"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+           android:layout_marginBottom="6dip"
+           android:layout_marginTop="35dp"
+            android:background="@drawable/new_filmmakers_btn"
+            
+            />
+
+        <Button
+            android:id="@+id/btn_login_film"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+  android:layout_marginBottom="15dip"
+          android:background="@drawable/filmmaker_login_btn" />
+
+
+        <Button
+            android:id="@+id/btn_viewer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+  android:layout_marginBottom="6dip"
+              android:background="@drawable/festival_viewers_btn"/>
+
+        <Button
+            android:id="@+id/btn_viewer_login"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/viewers_login_btn"/>
+
+    </LinearLayout>
+
+</RelativeLayout>

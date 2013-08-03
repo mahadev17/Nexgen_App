@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg2"
+    android:orientation="vertical" >
+
+   <!--  <com.linkites.nexgenfilmfestival.GIFView
+        android:id="@+id/gifview1"
+        android:layout_width="fill_parent"
+        android:layout_height="0dip"
+        android:layout_weight="1.0"
+        android:visibility="gone" 
+        /> -->
+
+    <LinearLayout
+        android:id="@+id/layout1234"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/new_animated_splash_last"
+        android:gravity="center"
+        android:orientation="vertical"
+        >
+
+        <Button
+            android:id="@+id/btn_filmMaker1"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:layout_marginLeft="40dp"
+            android:layout_marginRight="40dp"
+            android:background="@drawable/filmmaker_btn" />
+
+        <Button
+            android:id="@+id/btn_viewer"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:layout_marginLeft="40dp"
+            android:layout_marginRight="40dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/festival_viewers_btn_new" />
+    </LinearLayout>
+
+</LinearLayout>

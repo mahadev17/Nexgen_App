@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:background="@drawable/bg2"
+    android:orientation="vertical"
+    android:paddingTop="1dip" >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <ScrollView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_marginTop="111dip" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal" >
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical" 
+                    android:layout_marginTop="25dp">
+                    
+                    
+                        
+                        
+                            <TextView
+                        android:id="@+id/textView2"
+                        android:layout_width="wrap_content"
+ android:layout_height="21dp"
+                         android:paddingLeft="12dip"
+                        android:text="@string/distributor"
+                        android:textColor="@android:color/white"
+                        android:textSize="12sp" 
+                        android:gravity="center"
+                        android:layout_marginBottom="8dp"/>
+                            
+                            
+                            <TextView
+                        android:id="@+id/textView3"
+                        android:layout_width="wrap_content"
+                         android:layout_height="21dp"
+                        android:paddingLeft="12dip"
+                        android:text="@string/number"
+                        android:textColor="@android:color/white"
+                        android:textSize="12sp" 
+                        android:gravity="center"
+                        android:layout_marginBottom="11dp"
+                        android:layout_marginTop="4dp"/>
+                            
+                            
+                            
+                            <TextView
+                        android:id="@+id/textView4"
+                        android:layout_width="wrap_content"
+                      android:layout_height="21dp"
+                        android:paddingLeft="12dip"
+                        android:gravity="center"
+                        android:text="@string/address"
+                        android:textColor="@android:color/white"
+                        android:textSize="12sp" 
+                        android:layout_marginBottom="11dp"/>
+                            
+                            
+                            
+                            <TextView
+                        android:id="@+id/textView5"
+                        android:layout_width="wrap_content"
+                         android:layout_height="21dp"
+                        android:paddingLeft="12dip"
+                        android:gravity="center"
+                        android:text="@string/telephone"
+                        android:textColor="@android:color/white"
+                        android:textSize="12sp" 
+                        android:layout_marginBottom="8dp"/>
+                            
+                            
+                            <TextView
+                        android:id="@+id/textView5"
+                        android:layout_width="wrap_content"
+                         android:layout_height="21dp"
+                        android:paddingLeft="12dip"
+                        android:text="@string/email"
+                        android:textColor="@android:color/white"
+                        android:textSize="12sp" 
+                        android:gravity="center"/>
+                            
+                            
+                            <TextView
+                        android:id="@+id/textView5"
+                        android:gravity="center"
+                        android:layout_width="wrap_content"
+                         android:layout_height="21dp"
+                        android:paddingLeft="12dip"
+                        android:text="@string/password"
+                        android:textColor="@android:color/white"
+                        android:textSize="12sp" 
+                        android:layout_marginBottom="8dp"
+                        android:layout_marginTop="7dp"/>
+                            
+                            
+                            <TextView
+                        android:id="@+id/textView5"
+                        android:layout_width="wrap_content"
+                        android:gravity="center"
+                         android:layout_height="21dp"
+                        android:paddingLeft="12dip"
+                        android:text="@string/film_information"
+                        android:textColor="@android:color/white"
+                        android:textSize="12sp"
+                        android:layout_marginBottom="7dp" 
+                        />
+                            
+                            <TextView
+                        android:id="@+id/textView5"
+                        android:layout_width="wrap_content"
+                         android:layout_height="21dp"
+                         android:gravity="center"
+                        android:paddingLeft="12dip"
+                        android:text="@string/title"
+                        android:textColor="@android:color/white"
+                        android:textSize="12sp"
+                        android:layout_marginBottom="5dp" />
+                            
+                            <TextView
+                        android:id="@+id/textView5"
+                        android:layout_width="wrap_content"
+                         android:layout_height="21dp"
+                        android:paddingLeft="12dip"
+                        android:text="@string/original"
+                        android:gravity="center"
+                        android:textColor="@android:color/white"
+                        android:textSize="12sp" 
+                        android:layout_marginBottom="11dp"/>
+                            
+                            <TextView
+                        android:id="@+id/textView5"
+                        android:layout_width="wrap_content"
+                         android:layout_height="21dp"
+                        android:paddingLeft="12dip"
+                        android:text="@string/genre"
+                        android:gravity="center"
+                        android:textColor="@android:color/white"
+                        android:textSize="12sp" 
+                        android:layout_marginBottom="11dp"/>
+                            
+                            
+                            <TextView
+                        android:id="@+id/textView5"
+                        android:layout_width="wrap_content"
+                        android:layout_height="21dp"
+                        android:paddingLeft="12dip"
+                        android:gravity="center"
+                        android:text="@string/running"
+                        android:textColor="@android:color/white"
+                        android:textSize="12sp"
+                        android:layout_marginBottom="11dp" />
+                            
+                            
+                          
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical" 
+                    android:layout_marginTop="25dp"
+                    android:layout_marginRight="15dp"
+                    >
+                            
+                    
+                    <EditText
+                        android:id="@+id/edit_distributor"
+                        android:layout_width="match_parent"
+                        android:layout_height="30dip"
+                        android:layout_weight="1.8"
+                        android:inputType="text"
+							
+                        android:textSize="12sp" >
+
+                        
+                    </EditText>
+                    
+                    <EditText
+                        android:id="@+id/edit_number"
+                        android:layout_width="match_parent"
+                        android:layout_height="30dip"
+                        android:layout_weight="1.8"
+                        android:inputType="text"
+                        android:textSize="12sp" >
+
+                        
+                    </EditText>
+                    
+                    <EditText
+                        android:id="@+id/edit_address"
+                        android:layout_width="match_parent"
+                        android:layout_height="30dip"
+                        android:layout_weight="1.8"
+                        android:inputType="text"
+                        android:textSize="12sp" >
+
+                        
+                    </EditText>
+                    
+                    <EditText
+                        android:id="@+id/edit_telephone"
+                        android:layout_width="match_parent"
+                        android:layout_height="30dip"
+                        android:layout_weight="1.8"
+                        android:inputType="text"
+                        android:textSize="12sp" >
+
+                        
+                    </EditText>
+                    
+                    <EditText
+                        android:id="@+id/edit_email_reg"
+                        android:layout_width="match_parent"
+                        android:layout_height="30dip"
+                        android:layout_weight="1.8"
+                        android:inputType="text"
+                        android:textSize="12sp" >
+
+                        
+                    </EditText>
+                    
+                    <EditText
+                        android:id="@+id/edit_password_reg"
+                        android:layout_width="match_parent"
+                        android:layout_height="30dip"
+                        android:layout_weight="1.8"
+                        android:inputType="text"
+                        android:textSize="12sp" >
+
+                        
+                    </EditText>
+                    
+                    <EditText
+                        android:id="@+id/edit_film_title"
+                        android:layout_width="match_parent"
+                        android:layout_height="30dip"
+                        android:layout_weight="1.8"
+                        android:inputType="text"
+						android:layout_marginTop="32dp"		
+                        android:textSize="12sp" >
+
+                        
+                    </EditText>
+                    
+                    
+                    <EditText
+                        android:id="@+id/edit_film_original"
+                        android:layout_width="match_parent"
+                        android:layout_height="30dip"
+                        android:layout_weight="1.8"
+                        android:inputType="text"
+                        android:textSize="12sp" >
+
+                        
+                    </EditText>
+                    
+                    
+                    <EditText
+                        android:id="@+id/edit_genre"
+                        android:layout_width="match_parent"
+                        android:layout_height="30dip"
+                        android:layout_weight="1.8"
+                        android:inputType="text"
+                        android:textSize="12sp" >
+
+                        
+                    </EditText>
+                    
+                    
+                    <EditText
+                        android:id="@+id/edit_running"
+                        android:layout_width="80dp"
+                        android:layout_height="30dip"
+                        android:layout_weight="1.8"
+                        android:inputType="text"
+                        android:layout_gravity="right"
+                        android:textSize="12sp" >
+
+                        
+                    </EditText>
+                    
+                          <Button
+                    android:id="@+id/btn_next_reg"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="right"
+                    android:layout_marginTop="15dp"
+                    android:layout_marginRight="3dp"
+                    android:background="@drawable/arrow_right" />
+                    
+                </LinearLayout>
+
+            </LinearLayout>
+            
+            </ScrollView>
+            </RelativeLayout>
+            </LinearLayout>

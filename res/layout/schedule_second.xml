@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:background="@drawable/bg2"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:paddingTop="130dp" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingLeft="40dip"
+        android:paddingRight="40dip" >
+
+        <Button
+            android:id="@+id/btn_week5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="3dip"
+            android:background="@drawable/list_view"
+            android:text="PROGRAM 5" />
+
+        <Button
+            android:id="@+id/btn_week6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="3dip"
+            android:background="@drawable/list_view"
+            android:text="PROGRAM 6" />
+
+        <Button
+            android:id="@+id/btn_week7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="3dip"
+            android:background="@drawable/list_view"
+            android:text="PROGRAM 7" />
+
+        <Button
+            android:id="@+id/btn_week8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="3dip"
+            android:background="@drawable/list_view"
+            android:text="PROGRAM 8" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="bottom|left"
+        android:orientation="vertical" >
+
+        <Button
+            android:id="@+id/btn_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="45dp"
+            android:layout_marginTop="35dp"
+            android:background="@drawable/arrow_left"
+            android:text="" />
+    </LinearLayout>
+
+</LinearLayout>
